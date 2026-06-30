@@ -6,6 +6,7 @@ Write-ups de labs de pentest web (entornos locales / educativos).
 |-----|------------|--------|
 | [Nexum](nexum/README.md) | medium | SQLi (SQLite), IDOR, SSRF, API interna |
 | [Rabbit Store](rabbit-store/README.md) | medium | Mass assignment, SSRF, SSTI, RabbitMQ, Erlang cookie |
+| [NahamStore](naham-store/README.md) | medium | XSS, CSRF, IDOR, SSRF, XXE *(en progreso)* |
 
 ---
 
